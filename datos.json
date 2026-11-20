@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-11-20T17:44:27Z",
+  "actualizado": "2026-11-20T17:45:27Z",
   "fuente": "Yahoo Finance (yfinance); rentabilidades con precio ajustado por dividendos",
   "trm": {
-    "valor": 3498.03,
+    "valor": 3497.99,
     "fecha": "2026-11-19"
   },
   "acciones": [
@@ -12,14 +12,14 @@
       "nemotecnico": "ECOPETROL",
       "sector": "Petróleo y gas",
       "moneda": "COP",
-      "precio": 2365.0,
+      "precio": 2360.0,
       "fecha": "2026-11-20",
-      "variacion_dia_pct": 3.96,
-      "rent_1a_pct": 30.6,
-      "rent_anual_3a_pct": 11.41,
-      "volatilidad_anual_pct": 42.95,
+      "variacion_dia_pct": 3.74,
+      "rent_1a_pct": 30.32,
+      "rent_anual_3a_pct": 11.33,
+      "volatilidad_anual_pct": 42.93,
       "caida_maxima_1a_pct": -21.14,
-      "dividendo_rend_pct": 5.12,
+      "dividendo_rend_pct": 5.13,
       "historico": [
         {
           "mes": "2023-11",
@@ -167,7 +167,7 @@
         },
         {
           "mes": "2026-11",
-          "cierre": 2365.0
+          "cierre": 2360.0
         }
       ]
     },
@@ -177,11 +177,11 @@
       "nemotecnico": "PFCIBEST",
       "sector": "Financiero",
       "moneda": "COP",
-      "precio": 71080.0,
+      "precio": 71060.0,
       "fecha": "2026-11-20",
-      "variacion_dia_pct": 0.11,
-      "rent_1a_pct": 31.67,
-      "rent_anual_3a_pct": 51.73,
+      "variacion_dia_pct": 0.08,
+      "rent_1a_pct": 31.63,
+      "rent_anual_3a_pct": 51.71,
       "volatilidad_anual_pct": 34.97,
       "caida_maxima_1a_pct": -21.85,
       "dividendo_rend_pct": 6.55,
@@ -332,7 +332,7 @@
         },
         {
           "mes": "2026-11",
-          "cierre": 71080.0
+          "cierre": 71060.0
         }
       ]
     },
@@ -342,14 +342,14 @@
       "nemotecnico": "CIBEST",
       "sector": "Financiero",
       "moneda": "COP",
-      "precio": 80920.0,
+      "precio": 80880.0,
       "fecha": "2026-11-20",
-      "variacion_dia_pct": 1.15,
-      "rent_1a_pct": 37.08,
-      "rent_anual_3a_pct": 52.65,
+      "variacion_dia_pct": 1.1,
+      "rent_1a_pct": 37.01,
+      "rent_anual_3a_pct": 52.63,
       "volatilidad_anual_pct": 39.61,
       "caida_maxima_1a_pct": -25.56,
-      "dividendo_rend_pct": 5.75,
+      "dividendo_rend_pct": 5.76,
       "historico": [
         {
           "mes": "2023-11",
@@ -497,7 +497,7 @@
         },
         {
           "mes": "2026-11",
-          "cierre": 80920.0
+          "cierre": 80880.0
         }
       ]
     },
